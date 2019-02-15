@@ -1,0 +1,30 @@
+.main-content-body{
+	width: 100%;
+	padding-left: 210px;
+	box-sizing: border-box;
+}
+.laebl-top{
+	position: absolute;
+	margin-top: -22px;
+	background: #fff;
+	padding: 2px 5px;
+}
+
+.control-option{
+	position: fixed;
+	width: 100%;
+	background-color: #EEE;
+	bottom: 0;
+	z-index: 9;
+	padding:20px 0 20px 200px;
+	box-sizing: border-box;
+}
+.left-menu{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 200px;
+	height: 100%;
+	z-index: 10;
+	background-color: #1e88e5;
+}
